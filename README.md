@@ -6,7 +6,7 @@ JSON Alquran Lengkap Sempurna Sederhana (Terjemahan Indonesia, Tafsir, dan Audio
 
 ```sh
 .
-├── LICENSE
+├── README.md
 ├── quran-complete.json         // AL-Quran JSON Lengkap
 ├── quran.json                  // AL-Quran JSON
 ├── road_to_jannah.json         // API QuranJSON
