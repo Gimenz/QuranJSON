@@ -12,7 +12,7 @@ GET - BASE_URL/
 ```
 #### Mengakses API Surah Al Fatihah Lengkap
 ```
-GET - BASE_URL/surah/001 
+GET - BASE_URL/surah/1 
 ```
 > Rute API Surah banyak yang tidak tersedia dikarenakan terkena limit ukuran json, karena ini menggunakan service gratisan.
 ### Menjalankan service sendiri
