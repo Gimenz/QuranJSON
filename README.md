@@ -2,7 +2,8 @@
 
 Silakan menggunakannya semoga berkah.
 
-### Folder structure for Qur'an JSON
+### Stuktur Direktori QuranJSON
+
 ```sh
 .
 ├── LICENSE
@@ -15,7 +16,7 @@ Silakan menggunakannya semoga berkah.
 
 ## Penggunaan API / Service
 
-### Menggunakan service QuranJSON API
+### Menggunakan Service QuranJSON API
 
 > Rute API Surah banyak yang tidak tersedia dikarenakan terkena limit ukuran json, karena ini menggunakan service gratisan.
 
@@ -23,18 +24,18 @@ Dengan mengakses BASE_URL API : https://www.jsonstore.io/0cbbe501d81d44f64f10c9b
 
 #### Mengakses API Quran Sederhana
 
-```
+```sh
 GET - BASE_URL/ 
 ```
 #### Mengakses API Surah Al Fatihah Lengkap
 
-```
+```sh
 GET - BASE_URL/surah/1 
 ```
 
 ### Menjalankan Service sendiri
 
-```bash
+```sh
 npm install
 npm start
 ```
