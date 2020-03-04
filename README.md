@@ -16,7 +16,9 @@ JSON Alquran Lengkap Sempurna Sederhana (Terjemahan Indonesia, Tafsir, dan Audio
 
 ## Real app that uses QuranJSON
 
-[Quran Daily: Unlock Your Heart (iOS)](https://apps.apple.com/us/app/quran-daily-unlock-your-heart/id1494995253)
+- [Quran Daily: Unlock Your Heart (iOS)](https://apps.apple.com/us/app/quran-daily-unlock-your-heart/id1494995253)
+
+Add your application to this list with a pull request
 
 ## Penggunaan API / Service
 
