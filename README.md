@@ -29,12 +29,6 @@ npm install
 npm start
 ```
 
-### Menggunakan Service QuranJSON API
-
-> Rute API Surah banyak yang tidak tersedia dikarenakan terkena limit ukuran json, karena ini menggunakan service gratisan.
-
-Dengan mengakses BASE_URL API : <https://www.jsonstore.io/0cbbe501d81d44f64f10c9b10d51a7bd837827928b26f2055b7d274078c607f6/>
-
 #### Mengakses API Quran Sederhana
 
 ```sh
@@ -45,4 +39,20 @@ GET - BASE_URL/
 
 ```sh
 GET - BASE_URL/surah/1
+```
+
+### Menggunakan Service QuranJSON Github JSON
+
+Dapat langsung diakses melalui direktori.
+
+Quran:
+
+```sh
+https://raw.githubusercontent.com/penggguna/QuranJSON/master/quran.json
+```
+
+Surah:
+
+```sh
+https://raw.githubusercontent.com/penggguna/QuranJSON/master/surah/1.json
 ```
