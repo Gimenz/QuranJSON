@@ -1,16 +1,16 @@
 # Quran JSON API | بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
-JSON Alquran Lengkap Sempurna Sederhana (Terjemahan Indonesia, Tafsir, dan Audio) Beserta dengan REST API. Silakan menggunakannya sebaik mungkin dan semoga berkah.
+JSON Alquran Complete Complete Simple (Indonesian Translation, Tafsir, and Audio) Along with the REST API. Please use it as best you can and have a blessing.
 
-## Stuktur Direktori QuranJSON
+## Quran JSON Directory Structure
 
 ```sh
 .
 ├── README.md
-├── quran-complete.json         // AL-Quran JSON Lengkap
+├── quran-complete.json         // AL-Quran JSON Complete
 ├── quran.json                  // AL-Quran JSON
 ├── road_to_jannah.json         // API QuranJSON
-└── surah                       // Direktori JSON Surah Lengkap
+└── surah                       // Complete Surah JSON Directory
     └── <number_of:1-114>.json
 ```
 
@@ -20,30 +20,30 @@ JSON Alquran Lengkap Sempurna Sederhana (Terjemahan Indonesia, Tafsir, dan Audio
 
 Add your application to this list with a pull request
 
-## Penggunaan API / Service
+## Use Of API / Service
 
-### Menjalankan Service sendiri
+### Run your own service
 
 ```sh
 npm install
 npm start
 ```
 
-#### Mengakses API Quran Sederhana
+#### Access the Simple Quran API
 
 ```sh
 GET - BASE_URL/
 ```
 
-#### Mengakses API Surah Al Fatihah Lengkap
+#### Access the Complete Surah Al Fatihah API
 
 ```sh
 GET - BASE_URL/surah/1
 ```
 
-### Menggunakan Service QuranJSON Github JSON
+### Using the QuranJSON Github JSON Service
 
-Dapat langsung diakses melalui direktori.
+Can be directly accessed through the directory.
 
 Quran:
 
