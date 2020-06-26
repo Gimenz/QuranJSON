@@ -1,6 +1,6 @@
 # Quran JSON API | بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
-JSON Alquran Complete Complete Simple (Indonesian Translation, Tafsir, and Audio) Along with the REST API. Please use it as best you can and have a blessing.
+Simplified Perfect Complete Quran JSON (Indonesian Translation, Tafsir, and Audio) Along with the REST API. Please use it as best you can and have a blessing.
 
 ## Quran JSON Directory Structure
 
